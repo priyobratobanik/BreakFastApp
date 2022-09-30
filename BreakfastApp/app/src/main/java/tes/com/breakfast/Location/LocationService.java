@@ -13,9 +13,7 @@ import android.os.Bundle;
 import android.os.IBinder;
 import android.provider.Settings;
 
-/**
- * Created by Aashijit on 28/07/2018.
- */
+
 
 
 public class LocationService extends Service implements LocationListener {
