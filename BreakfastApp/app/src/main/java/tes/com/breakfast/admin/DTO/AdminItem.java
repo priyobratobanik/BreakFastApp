@@ -2,9 +2,6 @@ package tes.com.breakfast.admin.DTO;
 
 import android.net.Uri;
 
-/**
- * Created by Aashijit on 27/10/2018.
- */
 
 public class AdminItem
 {
