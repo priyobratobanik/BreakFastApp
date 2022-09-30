@@ -4,9 +4,7 @@ import android.net.Uri;
 
 import java.io.File;
 
-/**
- * Created by Aashijit on 28/10/2018.
- */
+
 
 public class Items
 {
