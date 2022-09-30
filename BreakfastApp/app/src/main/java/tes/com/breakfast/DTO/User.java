@@ -5,9 +5,7 @@ import android.os.health.TimerStat;
 import java.sql.Time;
 import java.sql.Timestamp;
 
-/**
- * Created by Aashijit on 16/10/2018.
- */
+
 
 public class User
 {
