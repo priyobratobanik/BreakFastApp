@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/successMessageLayout"
+    >
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rectangle"
+        android:padding="12sp"
+        android:gravity="center"
+        >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/success_icon"
+        android:background="@drawable/circle"
+        android:padding="15sp"
+    />
+
+    <TextView
+        android:id="@+id/successMessageText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Success Message Displayed"
+        android:padding="10sp"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+    />
+    </TableRow>
+
+</LinearLayout>

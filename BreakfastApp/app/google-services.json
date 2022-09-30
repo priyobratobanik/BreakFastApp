@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "752893305722",
+    "firebase_url": "https://beakfastapp.firebaseio.com",
+    "project_id": "beakfastapp",
+    "storage_bucket": "beakfastapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752893305722:android:d500fe44afd714d4",
+        "android_client_info": {
+          "package_name": "tes.com.breakfast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752893305722-83cgmvhcbm0omf25i465kc7tm7pa777f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tes.com.breakfast",
+            "certificate_hash": "6a253f3444b8f703e0af624c030cb40bd470fdf9"
+          }
+        },
+        {
+          "client_id": "752893305722-7a10vv985k4ie2603usr8a0g3vdnj6g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBd3NaycLugRqb9b45oMkpzvpmPgv_5x4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752893305722-7a10vv985k4ie2603usr8a0g3vdnj6g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,70 @@
+<resources>
+
+    <!-- GLOBAL -->
+    <string name="app_name">Breakfast</string>
+    <string name="alert">ALERT</string>
+    <string name="accept">ACCEPT</string>
+
+    <!-- Global Ends Here -->
+
+
+    <!-- App Launch Page -->
+    <string name="AppLaunchPageLogin">LOGIN</string>
+    <string name="AppLaunchPageRegister">REGISTER</string>
+    <!-- App Launch Page Ends Here -->
+
+    <!-- Sign Up Page -->
+
+    <string name="SignUpText">Sign Up</string>
+    <string name="SignUpTextUsername">Username</string>
+    <string name="SignUpTextPassword">Password</string>
+    <string name="SignUpTextConfirmPassword">Confirm Password</string>
+    <string name="SignUpTextAddress">Address</string>
+    <string name="SignUpTextAddressAlternate">Enter your Address</string>
+    <string name="SignUpTextRegister">REGISTER</string>
+    <string name="SignUpTextPasswordCriteria">Password : Only Alpha-Numeric allowed\n\t\tLength more than 8 characters</string>
+
+    <!--Sign Up Page Ends Here -->
+
+
+    <!--Login Page -->
+
+    <string name="LoginPageText">Log In</string>
+    <string name="LoginPageUsername">Username</string>
+    <string name="LoginPagePassword">Password</string>
+    <string name="LoginPageLogin">LOGIN</string>
+    <string name="LoginPageForgotPassword">Forgot Password ?</string>
+
+    <!-- Login Page Ends Here -->
+
+
+    <!-- Forgot Password Page -->
+    <string name="ForgotPasswordText">Change Password</string>
+    <string name="ForgotPasswordTextUsername">Username</string>
+    <string name="ForgotPasswordTextOldPassword">Old Password</string>
+    <string name="ForgotPasswordTextNewPassword">New Password</string>
+    <string name="ForgotPasswordTextConfirmNewPassword">Confirm Password</string>
+    <string name="ForgotPasswordTextChangeButton">CHANGE PASSWORD</string>
+    <!-- Forgot Password Page Ends Here -->
+
+    <!-- Home Pae -->
+    <string name="HomePageTitleText">Breakfast</string>
+    <string name="HomePageNavigationBarSignOut">Sign Out</string>
+
+    <!-- Home Page Ends Here -->
+
+
+    <!-- Admin -->
+
+    <string name="AdminLoginTitle">Log In</string>
+    <string name="Admin">Admin</string>
+    <string name="AdminAccess">For Admin Access, Click Here.</string>
+    <string name="AdminUploadItem">Upload Item</string>
+    <string name="AdminItemName">Item Name</string>
+    <string name="AdminItemPrice">Item Price</string>
+    <string name="AdminItemImage">Upload Image</string>
+    <string name="AdminUploadPageTitle">Upload Item</string>
+    <!-- -->
+
+
+</resources>
