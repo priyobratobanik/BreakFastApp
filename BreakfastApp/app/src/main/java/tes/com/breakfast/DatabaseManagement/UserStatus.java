@@ -11,10 +11,6 @@ import android.util.Log;
 import tes.com.breakfast.Exception.BreakfastException;
 import tes.com.breakfast.Util.MessageDisplay;
 
-/**
- * Created by Aashijit on 17/10/2018.
- */
-
 public class UserStatus extends SQLiteOpenHelper {
     private static final String DB_NAME = "Breakfast";
     private static final int DB_VERSION = 1;
