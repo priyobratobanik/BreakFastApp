@@ -12,9 +12,6 @@ import android.widget.Toast;
 
 import tes.com.breakfast.R;
 
-/**
- * Created by Aashijit on 17/10/2018.
- */
 
 public class MessageDisplay
 {
