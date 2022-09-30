@@ -18,9 +18,6 @@ import tes.com.breakfast.Exception.BreakfastException;
 import tes.com.breakfast.Util.DataValidation;
 import tes.com.breakfast.Util.MessageDisplay;
 
-/**
- * Created by Aashijit on 16/10/2018.
- */
 
 public class Registration
 {
