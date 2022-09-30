@@ -17,9 +17,7 @@ import java.util.List;
 import tes.com.breakfast.DTO.Items;
 import tes.com.breakfast.R;
 
-/**
- * Created by Aashijit on 28/10/2018.
- */
+/
 
 public class HomePageListAdapter extends ArrayAdapter<Items> {
     private List<Items> items;
