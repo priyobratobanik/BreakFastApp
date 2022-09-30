@@ -12,9 +12,7 @@ import java.util.concurrent.CountDownLatch;
 
 import tes.com.breakfast.Exception.BreakfastException;
 
-/**
- * Created by Aashijit on 17/10/2018.
- */
+
 
 public class ForgotPassword {
     private static String status;
